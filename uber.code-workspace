@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../uber"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix1",
+		"liveServer.settings.port": 5501
+	}
+}
